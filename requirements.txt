@@ -1,0 +1,12 @@
+pandas 
+numpy
+langchain
+langchain_community
+langchain_groq
+transformers
+pypdf
+validators==0.28.1
+youtube_transcript_api
+streamlit
+unstructured 
+pytube
